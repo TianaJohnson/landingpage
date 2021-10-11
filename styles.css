@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header-banner{
+    background: blueviolet;
+    height: 50px;
+}
+#name-title{
+    align-content: center;
+    color: gray;
+    text-align: center;
+    /* padding: 20px; */
+
+}
