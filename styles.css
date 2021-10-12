@@ -4,12 +4,15 @@
 }
 .header-banner{
     background: blueviolet;
-    height: 50px;
+    height: 100px;
+    display: flex;
 }
-#name-title{
+.name-title{
+    flex:1;
+    flex-flow: row wrap;
     align-content: center;
+    align-items: center;
+    
     color: gray;
-    text-align: center;
-    /* padding: 20px; */
 
 }
