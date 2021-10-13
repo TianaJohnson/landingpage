@@ -1,6 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
-import body from './components/body';
+
 
 function App() {
   return (
@@ -8,7 +7,7 @@ function App() {
       <header className="App-header">
         Hello World
       </header>
-      <body/>
+
     </div>
   );
 }
